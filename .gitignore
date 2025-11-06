@@ -1,0 +1,14 @@
+**.ipynb
+**.ipynb_checkpoints
+# everything in the folder data
+data/
+# all csv files
+**.csv
+__pycache__
+outputs/
+# SSH keys
+jump/
+download_dataset.py
+test_pipeline.sh
+test_server.py
+test.sh
