@@ -3,7 +3,7 @@
 
 FedTree is a modular and easy-to-extend prototype for **federated learning (FL)** experiments.  
 It supports multiple aggregation algorithms, centralized baselines, and datasets like **CIFAR-100** and **iNaturalist**.  
-The codebase is designed for clarity and reproducibility — ideal for both research and teaching.
+
 
 ---
 
